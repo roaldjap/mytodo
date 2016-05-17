@@ -1,7 +1,8 @@
 # mytodo
 
-This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
-version 0.15.1.
+Learned to create a todo list using yeoman as a framework.
+
+
 
 ## Build & development
 
